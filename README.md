@@ -1,2 +1,2 @@
 # html-practice
-My second repository on GitHub.
+Basic Html practice.
